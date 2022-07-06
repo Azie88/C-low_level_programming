@@ -5,7 +5,6 @@
  * Description: Print putchar in a new line
  * Return: This program returns zero
  */
-
 int main(void)
 {
 _putchar('_');
